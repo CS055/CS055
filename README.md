@@ -5,8 +5,10 @@ Introduction to open source
 
 |No.| General Topics        | Date        | Course Material| Prerequisites|
 |---|-----------------------|-------------|----------------|--------------|
-|1  |Open Source and Career |             |                | None         |
-|2  |Introduction to GitHub |             |                | Bring Laptop |
-|3  |Learn enough Git       |             |                | Bring Laptop |    
-|4  |Linux                  |             |                | Bring Laptop | 
+|1  |Open Source and Career |             |                | Interest in Open Source |
+|2  |Introduction to GitHub |             |                | Laptop, GitHub Account |
+|3  |Learn enough Git       |             |                | Laptop, Git Installed |    
+|4  |Linux in a Cooler Way  |             |                | Laptop, Linux Installed | 
+
+Discussions in IRC channel #iiita-dev.
  
