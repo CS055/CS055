@@ -1,4 +1,4 @@
-# cs400
+# CS055
 
 Introduction to open source 
 
