@@ -7,5 +7,6 @@ Introduction to open source
 |---|-----------------------|-------------|----------------|--------------|
 |1  |Open Source and Career |             |                | None         |
 |2  |Introduction to GitHub |             |                | Bring Laptop |
-|3  |Learn enough Git       |             |                | Bring Laptop |             
+|3  |Learn enough Git       |             |                | Bring Laptop |    
+|4  |Linux                  |             |                | Bring Laptop | 
  
